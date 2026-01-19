@@ -10,5 +10,11 @@
 - Dart
 - Provider
 
+- ## Screenshots
+![Empty App](screenshots/empty_app.png)
+![Tasks Added](screenshots/tasks_added.png)
+![Delete Task](screenshots/delete_task.png)
+
+
 ## Status
 Work in progress. More features coming soon.
